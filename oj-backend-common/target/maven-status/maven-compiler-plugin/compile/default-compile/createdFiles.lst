@@ -1,0 +1,15 @@
+com\kalika\ojbackendcommon\common\BaseResponse.class
+com\kalika\ojbackendcommon\constant\FileConstant.class
+com\kalika\ojbackendcommon\common\DeleteRequest.class
+com\kalika\ojbackendcommon\constant\CommonConstant.class
+com\kalika\ojbackendcommon\constant\UserConstant.class
+com\kalika\ojbackendcommon\exception\BusinessException.class
+com\kalika\ojbackendcommon\utils\NetUtils.class
+com\kalika\ojbackendcommon\exception\ThrowUtils.class
+com\kalika\ojbackendcommon\common\ErrorCode.class
+com\kalika\ojbackendcommon\common\PageRequest.class
+com\kalika\ojbackendcommon\annotation\AuthCheck.class
+com\kalika\ojbackendcommon\common\ResultUtils.class
+com\kalika\ojbackendcommon\utils\SqlUtils.class
+com\kalika\ojbackendcommon\exception\GlobalExceptionHandler.class
+com\kalika\ojbackendcommon\config\JsonConfig.class
